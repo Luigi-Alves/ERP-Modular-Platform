@@ -1,3 +1,4 @@
+
 # 🏢 ERP Modular – Sistema de Gestão Empresarial
 
 > Projeto desenvolvido em **dupla**, com foco em **arquitetura corporativa**, **boas práticas** e **aprendizado real de mercado**, utilizando **Python + FastAPI**.
@@ -188,6 +189,7 @@ Essa abordagem permite iniciar o projeto utilizando **JSON em memória** e futur
 
 ---
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
@@ -384,3 +386,5 @@ Essa abordagem permite iniciar o projeto utilizando **JSON em memória** e futur
 >>>>>>> 39d070ce65cfd89d0adf496bd850670e19c21c91
 >>>>>>> 342e92d8e8cb779b1ba6d2730d18116a268425ab
 > "Não é apenas um projeto acadêmico, é uma simulação de como sistemas empresariais são pensados e construídos no mundo real."
+=======
+>>>>>>> f1ef1838224c9d613878c456be4395178a6751f7
