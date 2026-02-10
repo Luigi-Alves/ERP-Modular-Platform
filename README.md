@@ -189,6 +189,5 @@ Essa abordagem permite iniciar o projeto utilizando **JSON em memória** e futur
 
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 =======
