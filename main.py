@@ -4,8 +4,6 @@ from fastapi import FastAPI
 app = FastAPI()
 
 
+from auth_routes import auth_router
 
-
-@app.get("/")
-def home():
-    return {"menssagem": "Hello World"}
+app.include_router(auth_router)
